@@ -1,7 +1,6 @@
-## 概要
+# nitechCreate
 
-nitechCreate は、名古屋工業大学の有志学生による団体です。
-
+nitechCreate は、名古屋工業大学の有志学生による団体です。  
 Discordで雑談したり、不定期でLT会を行っています。
 
 ## 活動
