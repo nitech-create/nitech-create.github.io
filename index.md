@@ -7,7 +7,7 @@ Discordで雑談したり、不定期でLT会を行っています。
 
 ### LT会
 
-- https://nitech-create.connpass.com/
+- [https://nitech-create.connpass.com/](https://nitech-create.connpass.com/)
 
 ### 開発
 
