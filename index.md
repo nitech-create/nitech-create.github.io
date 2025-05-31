@@ -19,7 +19,8 @@ Discordで雑談したり、不定期でLT会を行っています。
 
 <style>
 
-a:is([href^="https://github.com/"])::before {
+a:is([href^="https://github.com/"],
+    [href^="https://nitech-create.connpass.com/"])::before {
     content: '';
     display: inline-block;
     width: 16px;
@@ -31,6 +32,10 @@ a:is([href^="https://github.com/"])::before {
 
 a[href^="https://github.com/"]::before {
     background: url(http://www.google.com/s2/favicons?domain=https://github.com/);
+}
+
+a[href^="https://nitech-create.connpass.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://nitech-create.connpass.com/);
 }
 
 </style>
