@@ -19,8 +19,18 @@ Discordで雑談したり、不定期でLT会を行っています。
 
 <style>
 
-h1, h2, h3 {
-    background: red;
+a:is([href^="https://github.com/"])::before {
+    content: '';
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: -3px;
+    margin-right: 5px;
+    background-size: contain;
+}
+
+a[href^="https://github.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://github.com/);
 }
 
 </style>
