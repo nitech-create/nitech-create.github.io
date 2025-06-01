@@ -5,9 +5,9 @@ Discordで雑談したり、不定期でLT会を行っています。
 
 ## リンク
 
-- [https://nitech-create.connpass.com/](https://nitech-create.connpass.com/)
-- [https://x.com/nitechCreate](https://x.com/nitechCreate)
-- [https://github.com/nitech-create](https://github.com/nitech-create)
+- <https://nitech-create.connpass.com/>
+- <https://x.com/nitechCreate>
+- <https://github.com/nitech-create>
 
 ## 沿革
 - 2020年：設立
