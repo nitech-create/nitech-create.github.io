@@ -5,7 +5,7 @@
 <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
 <dotlottie-wc 
   src="https://lottie.host/f37f3e80-2ce5-4003-b37c-2ae9d54c2146/1XVMwYMAVc.lottie"
-  style="width:500px;height:500px"
+  style="width:300px;height:300px"
   autoplay
   loop>
 </dotlottie-wc>
@@ -71,4 +71,5 @@ a[href^="https://x.com/"]::before {
 }
   
 </style>
+
 
