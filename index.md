@@ -1,5 +1,17 @@
 # nitechCreate
 
+<div align="center">
+
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc 
+  src="https://lottie.host/f37f3e80-2ce5-4003-b37c-2ae9d54c2146/1XVMwYMAVc.lottie"
+  style="width:500px;height:500px"
+  autoplay
+  loop>
+</dotlottie-wc>
+
+</div>
+
 nitechCreate は、名古屋工業大学の有志学生による団体です。  
 Discordで雑談したり、不定期でLT会を行っています。
 
@@ -59,3 +71,4 @@ a[href^="https://x.com/"]::before {
 }
   
 </style>
+
